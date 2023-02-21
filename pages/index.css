@@ -4,3 +4,6 @@
 
 /* ---page--- */
 @import url(../blocks/page/page.css);
+
+/* ---logo--- */
+@import url(../blocks/logo/logo.css);

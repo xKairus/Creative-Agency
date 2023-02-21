@@ -1,0 +1,12 @@
+.logo {
+    box-sizing: border-box;
+    padding: 14px;
+
+    width: 48px;
+    height: 48px;
+
+    background-color: var(--color-accent);
+
+    border-radius: 12px;
+    box-shadow: -5px 10px 30px rgba(76, 64, 247, 0.5);
+}
