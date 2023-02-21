@@ -4,3 +4,6 @@
 
 /* ---page--- */
 @import url(../blocks/page/page.css);
+
+/* ---button--- */
+@import url(../blocks/button/button.css);

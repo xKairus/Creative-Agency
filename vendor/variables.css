@@ -1,5 +1,5 @@
 :root {
-    --color-bg-main: #ECECEC;
+    --color-bg-main: #FFF;
     --color-bg-secondary: #F9F9FD;
 
     --color-bg-main-dark: #00113B;
@@ -18,4 +18,8 @@
     --color-element-yellow: #FFCC00;
     --color-element-blue: #007BFF;
     --color-element-orange: #FF6800;
+}
+
+html {
+    background-color: #ECECEC;
 }
