@@ -1,0 +1,21 @@
+:root {
+    --color-bg-main: #ECECEC;
+    --color-bg-secondary: #F9F9FD;
+
+    --color-bg-main-dark: #00113B;
+    --color-bg-secondary-dark: #020e2d;
+
+    --color-typo-main: #2E363E;
+    --color-typo-secondary: #FFFFFF;
+
+    --color-link: #6B6B6B;
+
+    --color-accent: #4C40F7;
+
+    --color-element-lightblue: #5CC8FC;
+    --color-element-red: #FF2D59;
+    --color-element-green: #4ADB61;
+    --color-element-yellow: #FFCC00;
+    --color-element-blue: #007BFF;
+    --color-element-orange: #FF6800;
+}
