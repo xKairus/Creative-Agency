@@ -10,6 +10,7 @@
 
 /* ---button--- */
 @import url(../blocks/button/button.css);
+@import url(../blocks/button/--link/button--link.css);
 
 /* ---logo--- */
 @import url(../blocks/logo/logo.css);
