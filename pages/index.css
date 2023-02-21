@@ -5,5 +5,8 @@
 /* ---page--- */
 @import url(../blocks/page/page.css);
 
+/* ---button--- */
+@import url(../blocks/button/button.css);
+
 /* ---logo--- */
 @import url(../blocks/logo/logo.css);
