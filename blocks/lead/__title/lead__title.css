@@ -1,0 +1,13 @@
+.lead__title {
+    max-width: 570px;
+    margin: 113px 0 24px;
+
+    font-weight: 600;
+    font-size: 56px;
+    line-height: 1.29;
+    letter-spacing: -0.4px;
+}
+
+.lead__title span {
+    color: var(--color-element-orange);
+}
