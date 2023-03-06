@@ -8,6 +8,11 @@
 /* ---container--- */
 @import url(../blocks/container/container.css);
 
+/* ---heading--- */
+@import url(../blocks/heading/heading.css);
+@import url(../blocks/heading/__title/heading__title.css);
+@import url(../blocks/heading/__subtitle/heading__subtitle.css);
+
 /* ---button--- */
 @import url(../blocks/button/button.css);
 

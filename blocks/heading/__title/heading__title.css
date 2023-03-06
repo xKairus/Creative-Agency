@@ -1,0 +1,9 @@
+.heading__title {
+    margin: 0;
+    
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.4;
+
+    color: var(--color-element-red);
+}
